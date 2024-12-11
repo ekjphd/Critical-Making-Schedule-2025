@@ -23,7 +23,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 - The course has no synchronous meeting requirements: however, students are encouraged to attend optional events both on-campus and online if possible to build community and skills. Event information will be shared through weekly announcements.
 - Assistance is  available via Zoom during office hours and at mutually convenient appointment times, and at any time through Canvas Inbox/email, and Discord direct messaging (we are all on the T&T server). Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
-- Students will need access to a reliable internet connection and computer to participate in this course. Due to some of the tool installation needs, *administrative access to the system* is necessary to complete assignments.
+- Students will need access to a reliable internet connection and computer to participate in this course. Due to some of the tool installation needs, **administrative access to the system** is necessary to complete assignments.
 - In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
 
 ---
@@ -150,5 +150,5 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 ### Final Reflection (Due Sunday, April 27)
 
-- Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
+- Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by **11:59pm on Tuesday, April 29**!
 
