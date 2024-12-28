@@ -17,7 +17,7 @@ Once you have a result that you find both compelling and simple enough to “mak
 
 Your reflection for this prompt should consist of approximately five images documenting your process from concept to final work, with a short narrative accompanying it that walks through your thinking. Make connections to the readings and anything that inspired your work, including both examples from the course materials and your own experience with craft outside of this course.
 
-## My Selfie Sample
+## My Selfie Sample (by Dr. Salter)
 
 *This is provided as an example - it need not be precisely imitated by any means, but I hope it makes concrete what might otherwise seem abstract!*
 
