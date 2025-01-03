@@ -48,7 +48,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter One: Selfie"
 #### Create (by Sunday):
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
-- Discussion 2
 
 ### Week Three: Comic (January 20-26)
 #### Read:
@@ -59,7 +58,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Two: Comic"
 #### Create:
 - [Making Exercise Two: Comic](exercises/two_comic)
-- Discussion 3
 
 ### Week Four: GIF (January 27-February 2)
 #### Read: 
@@ -69,7 +67,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Three: GIF"
 #### Create: 
 - [Making Exercise Three: GIF](exercises/three_gifs)
-- Discussion 4
 
 ### Week Five: Map (February 3-9)
 #### Read:
@@ -79,7 +76,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Four: Map"
 #### Create:
 - [Making Exercise Four: Map](exercises/four_maps)
-- Discussion 5
 
 ### Week Six: Hypertext (February 10-16)
 #### Read:
@@ -89,7 +85,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Five: Hypertext"
 #### Create:
 - [Making Exercise Five: Hypertext](exercises/five_hypertext)
-- Discussion 6
   
 ### Week Seven: Game (February 17-23)
 #### Read: 
@@ -100,7 +95,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Six: Game"
 #### Create:
 - [Making Exercise Six: Game](exercises/six_game)
-- Discussion 7
 
 ### Week Eight: Grammar (February 24-March 2)
 #### Read:
@@ -111,7 +105,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Seven: Grammar"
 #### Create:
 - [Making Exercise Seven: Grammar](exercises/seven_generator)
-- Discussion 8
 
 ### Week Nine: Analysis (March 3-9)
 #### Read:
@@ -122,7 +115,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Eight: Analysis"
 #### Create:
 - [Making Exercise Eight: Analysis](exercises/eight_analysis)
-- Discussion 9
 
 ### Week Ten: Generation (March 10-16) 
 #### Read: 
@@ -133,7 +125,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Johnson and Salter, "Chapter Nine: Generation"
 #### Create:
 - [Making Exercise Nine: Generation](exercises/nine_generation)
-- Discussion 10
 
 ### Week Eleven: Spring Break (March 17-22)
 -- No Assignments - enjoy the break!
@@ -145,7 +136,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Salter and Johnson, "Chapter Ten: Crafting Futures in the Age of AI"
 #### Create:
 - [Making Exercise Ten: Visualization](exercises/ten_visualization)
-- Discussion 11
 
 ### Week Thirteen: Narratives (March 31-April 6)
 #### Read:
@@ -155,7 +145,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
 ### Create:
 - [Making Exercise Eleven: Narrative](exercises/eleven_narrative)
-- Discussion 12
   
 ### Week Fourteen: Combinations (April 7-13)
 #### Read:
@@ -165,7 +154,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
 Create:
 - [Making Exercise Twelve: GitHub](exercises/twelve_github)
-- Discussion 13
 
 ### Week Fifteen: Futures (April 14-20) (Last week of classes)
 #### Read:
@@ -175,7 +163,6 @@ Create:
 - Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
 #### Create:
 - **[Optional** Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)
-- **Optional** Discussion 14
 
 ### Final Reflection (Due Sunday, April 27)
 
