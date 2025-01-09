@@ -10,13 +10,13 @@ Whether you’ve encountered comics online, circulating through platforms such a
 
 - ![AI Comic](../img/aicomic.png)
 
-As you make your comic, think about:
+As you make your comic, work to:
 
 - **Unify form and intention.** Note how scholarly comics build an argument, commentary, or critique through the juxtaposition of the visual and the textual. For this pattern, start to think about your communicative intention: will the comic you make critique an object relevant to your research? Connect with a frustration you have about text or its usual assumptions and structures? 
 - **Focus on visual exploration, not stressing over your drawing ability.** Make “found” images your base, and draw or annotate within your comfort zone. Think about how images serve a lens for exploring thoughts and expanding metaphors for thinking and criticism: exploring your thoughts through comics can be as simple as annotating on top of the images being remixed, or as complex as building new images out of layering and juxtapositions with your own drawing and commentary.
 - **Keep it short and work slowly.** Working physically and remixing images takes time, and once you cut out a section or write something in marker, you’re usually stuck with it! There’s no undo button in physical cut and paste, so this process encourages slowing down and working on a smaller scale.
 
-As before, your reflection for this prompt should consist of approximately five images documenting your process from concept to final work, with a short narrative accompanying it that walks through your thinking. Make connections to the readings and anything that inspired your work, including both examples from the course materials and your own experience with comics outside of this course.
+Again, in your discussion post reflection, you need to include at least five images documenting your process from concept to final work, alolng with a short narrative accompanying it that walks through your thinking. Make connections to the readings and anything that inspired your work, including both examples from the course materials and your own experience with comics outside of this course.
 
 To build a workable foundation, start by folding a page into eight parts: this can easily be converted into a booklet by cutting a line between the two sets of center panels, and thus becomes “book-like” in a way that encourages thinking through sequence and juxtaposition. here's a [simple blueprint for a folded mini-comic](https://dw-wp.com/2010/06/a-simple-minicomic-format/) to get you started. This is a basic way to use the page and keep your scale manageable. However, you can also look at work that uses more experimental formats for ideas: folding the page differently, for instance, can yield new juxtapositions like those at work in Andy Poyiadgi's [origami comic](http://www.ajpoyiadgi.com/comics#/origami-comic/), with images that are disrupted and remixed as you refold. Experimentation is part of the goal: to quote a great guides on making mini-comics, the answer to “How Do I Make Mini-Comics?” is “any way you want” [Spurgeon](https://www.comicsreporter.com/index.php/all_about_comics/all_about/77/).
 
@@ -26,7 +26,7 @@ This type of remix, tracing-to-create, and play is the focus, and the act of cre
 
 - ![Alice in Dataland](../img/comic.jpg)
 
-I used this approach for the cheesy, cartoony illustrations for a full section of that *Kairos* article, [viewable here](https://kairos.technorhetoric.net/20.1/inventio/salter/five/index.html).
+Dr. Salter used this approach for the cheesy, cartoony illustrations for a full section of that *Kairos* article, [viewable here](https://kairos.technorhetoric.net/20.1/inventio/salter/five/index.html).
 
 - ![Excerpt](../img/dataland.jpg)
 
