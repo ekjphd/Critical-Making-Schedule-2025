@@ -1,6 +1,6 @@
 # Making Exercise Eleven: Narrative
 
-As we continue our play with P5.js, I've built a starter project for you to explore epoetry and narrative. Depending on your programming background, feel free to branch out further from the provided frameworks. Keep in mind the inspiration works we discussed, and particularly draw on influences such as [Algorithmic Sea](https://www.algorithmicsea.com/)) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below.
+As we continue our play with P5.js, I've built a starter project for you to explore epoetry and narrative. Depending on your programming background, feel free to branch out further from the provided frameworks. Keep in mind the inspiration works we discussed, and particularly draw on influences such as [Algorithmic Sea](https://www.algorithmicsea.com/) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below.
 
 ![Strange Rain](../img/rain.png)
 
